@@ -94,6 +94,7 @@ a:hover{
 }
 .menu-links li{
     list-style: none;
+    margin-right: -20px;
 }
 .menu-links.open{
     max-height: 300px;
