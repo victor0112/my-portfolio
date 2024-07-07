@@ -457,7 +457,7 @@ footer p{
     }
     .section__pic-container{
         width: auto;
-        height: 36vh;
+        height: 36vw;
         justify-content: center;
     }
     .section__text__p2{
