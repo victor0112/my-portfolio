@@ -444,7 +444,7 @@ footer p{
     .nav-links{
         flex-direction: column;
         gap: 0.5rem;
-        text-align: center;
+        text-align: right;
     }
     .section__pic-container{
         width: auto;
