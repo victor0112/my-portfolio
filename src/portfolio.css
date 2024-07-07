@@ -89,12 +89,12 @@ a:hover{
     text-align: center;
     font-size: 1.5rem;
     color: black;
+    margin-right: -20px;
     text-decoration: none;
     transition: all 0.3 ease-in-out;
 }
 .menu-links li{
     list-style: none;
-    margin-right: -20px;
 }
 .menu-links.open{
     max-height: 300px;
