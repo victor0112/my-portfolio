@@ -117,7 +117,7 @@ a:hover{
     transform: none
  }
  section{
-     padding: 4vh;
+     padding-top: 4vh;
      height: 96vh;
      margin: 0 10rem;
      box-sizing: border-box;
