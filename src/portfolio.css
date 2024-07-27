@@ -305,7 +305,7 @@ article .icon{
 
 /*PROJECT SECTION*/
 
-#projects{
+#portfolio{
     position: relative;
 }
 .color-container{
@@ -452,7 +452,13 @@ footer p{
     .section__pic-container{
         width: auto;
         height: 46vh;
+        display: flex;
         justify-content: center;
+    }
+    .section__pic-container2{
+        display: flex;
+        justify-content: center;
+        margin-bottom: 18px;
     }
     .section__text__p2{
         font-size: 1.25rem;
